@@ -1,7 +1,7 @@
 name: multi_validator
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-repository: https://github.com/alfredoUcar/multi-validator
+repository: https://github.com/alfredoUcar/dart-multi-validator
 
 environment:
   sdk: '>=2.14.4 <3.0.0'
